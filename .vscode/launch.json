@@ -1,0 +1,889 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "removeLeaves",
+            "request": "launch",
+            "mainClass": "GenericTree.removeLeaves",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "mirrorGenricTree",
+            "request": "launch",
+            "mainClass": "GenericTree.mirrorGenricTree",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "ZigZagLinewiseORDER",
+            "request": "launch",
+            "mainClass": "GenericTree.ZigZagLinewiseORDER",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "levelorderLineWise",
+            "request": "launch",
+            "mainClass": "GenericTree.levelorderLineWise",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "LevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "GenericTree.LevelOrderTraversal",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "TraversalInGenricTree",
+            "request": "launch",
+            "mainClass": "GenericTree.TraversalInGenricTree",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Height",
+            "request": "launch",
+            "mainClass": "GenericTree.Height",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "MaximuminGerneric",
+            "request": "launch",
+            "mainClass": "GenericTree.MaximuminGerneric",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "SizeofGenericTree",
+            "request": "launch",
+            "mainClass": "GenericTree.SizeofGenericTree",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "displayConstructor",
+            "request": "launch",
+            "mainClass": "GenericTree.displayConstructor",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "GenericTree.constructor",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "GenericTree.Constructor",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "circularLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.circularLinkedList",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "doublyLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.doublyLinkedList",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "IntroLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.IntroLinkedList",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "getkeypadcombination",
+            "request": "launch",
+            "mainClass": "Recursion.getkeypadcombination",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "RemovePrimeno",
+            "request": "launch",
+            "mainClass": "Arraylist.RemovePrimeno",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "introArraylist",
+            "request": "launch",
+            "mainClass": "Arraylist.introArraylist",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "BarChart",
+            "request": "launch",
+            "mainClass": "Arrays.BarChart",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Arrays.BinarySearch",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "CeilFloor",
+            "request": "launch",
+            "mainClass": "Arrays.CeilFloor",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "FindingElement",
+            "request": "launch",
+            "mainClass": "Arrays.FindingElement",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "FirstIndexLastIndx",
+            "request": "launch",
+            "mainClass": "Arrays.FirstIndexLastIndx",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "InverseofanArray",
+            "request": "launch",
+            "mainClass": "Arrays.InverseofanArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "LargestNDSmallest",
+            "request": "launch",
+            "mainClass": "Arrays.LargestNDSmallest",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Arrays.LinearSearch",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubarraySum",
+            "request": "launch",
+            "mainClass": "Arrays.MaxSubarraySum",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "ObjectInArray",
+            "request": "launch",
+            "mainClass": "Arrays.ObjectInArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "PairsINaArray",
+            "request": "launch",
+            "mainClass": "Arrays.PairsINaArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "PrefixSum",
+            "request": "launch",
+            "mainClass": "Arrays.PrefixSum",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "ReverseOfArray",
+            "request": "launch",
+            "mainClass": "Arrays.ReverseOfArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "RotateaAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.RotateaAnArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "SpanOfAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.SpanOfAnArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "SubaaraysofArrays",
+            "request": "launch",
+            "mainClass": "Arrays.SubaaraysofArrays",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "SubsetOfAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.SubsetOfAnArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "SumofTwoArrays",
+            "request": "launch",
+            "mainClass": "Arrays.SumofTwoArrays",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "SwapArray",
+            "request": "launch",
+            "mainClass": "Arrays.SwapArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "differnce",
+            "request": "launch",
+            "mainClass": "Arrays.differnce",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "intro",
+            "request": "launch",
+            "mainClass": "Arrays.intro",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "BenajaminBulb",
+            "request": "launch",
+            "mainClass": "BenajaminBulb",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "DIGITstrtZero",
+            "request": "launch",
+            "mainClass": "DIGITstrtZero",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "AnyBaseAddition",
+            "request": "launch",
+            "mainClass": "Function.AnyBaseAddition",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "AnyBaseToDecimal",
+            "request": "launch",
+            "mainClass": "Function.AnyBaseToDecimal",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "AnyBaseToanyBase",
+            "request": "launch",
+            "mainClass": "Function.AnyBaseToanyBase",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToAnyBase",
+            "request": "launch",
+            "mainClass": "Function.DecimalToAnyBase",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "DigitFrequency",
+            "request": "launch",
+            "mainClass": "Function.DigitFrequency",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "anybasemultiplication",
+            "request": "launch",
+            "mainClass": "Function.anybasemultiplication",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "anybasesubtarction",
+            "request": "launch",
+            "mainClass": "Function.anybasesubtarction",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "intro(1)",
+            "request": "launch",
+            "mainClass": "Function.intro",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "InverseOfNumber",
+            "request": "launch",
+            "mainClass": "InverseOfNumber",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Loop",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFactr",
+            "request": "launch",
+            "mainClass": "PrimeFactr",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "PythagorasT",
+            "request": "launch",
+            "mainClass": "PythagorasT",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "AllindicesofArray",
+            "request": "launch",
+            "mainClass": "Recursion.AllindicesofArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "DisplayArray",
+            "request": "launch",
+            "mainClass": "Recursion.DisplayArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "GetSubquences",
+            "request": "launch",
+            "mainClass": "Recursion.GetSubquences",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "IncDec",
+            "request": "launch",
+            "mainClass": "Recursion.IncDec",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "LastindexOcuu",
+            "request": "launch",
+            "mainClass": "Recursion.LastindexOcuu",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "LograthimicCal",
+            "request": "launch",
+            "mainClass": "Recursion.LograthimicCal",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Recursion.ReverseArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "TowerOfHanaoi",
+            "request": "launch",
+            "mainClass": "Recursion.TowerOfHanaoi",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "decreasing",
+            "request": "launch",
+            "mainClass": "Recursion.decreasing",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "fisrtindxOcuu",
+            "request": "launch",
+            "mainClass": "Recursion.fisrtindxOcuu",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "incresing",
+            "request": "launch",
+            "mainClass": "Recursion.incresing",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "maximumArray",
+            "request": "launch",
+            "mainClass": "Recursion.maximumArray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "powerCal",
+            "request": "launch",
+            "mainClass": "Recursion.powerCal",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "printZigZag",
+            "request": "launch",
+            "mainClass": "Recursion.printZigZag",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "RotateNumber",
+            "request": "launch",
+            "mainClass": "RotateNumber",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Sort",
+            "request": "launch",
+            "mainClass": "Sorting.Sort",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "AreaofHistogram",
+            "request": "launch",
+            "mainClass": "Stack.AreaofHistogram",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "BalancedBracket",
+            "request": "launch",
+            "mainClass": "Stack.BalancedBracket",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "BuildNormalStack",
+            "request": "launch",
+            "mainClass": "Stack.BuildNormalStack",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "BuilddDynamicStack",
+            "request": "launch",
+            "mainClass": "Stack.BuilddDynamicStack",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateBracket",
+            "request": "launch",
+            "mainClass": "Stack.DuplicateBracket",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "NSEontheRight",
+            "request": "launch",
+            "mainClass": "Stack.NSEontheRight",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "NextGreaterElement",
+            "request": "launch",
+            "mainClass": "Stack.NextGreaterElement",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "alternatrapprNGE",
+            "request": "launch",
+            "mainClass": "Stack.alternatrapprNGE",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "infixConversion",
+            "request": "launch",
+            "mainClass": "Stack.infixConversion",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "infixEvalutaion",
+            "request": "launch",
+            "mainClass": "Stack.infixEvalutaion",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "intro(2)",
+            "request": "launch",
+            "mainClass": "Stack.intro",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "PermutationOfString",
+            "request": "launch",
+            "mainClass": "String.PermutationOfString",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "PrintALLpalindrome",
+            "request": "launch",
+            "mainClass": "String.PrintALLpalindrome",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "StringCompression",
+            "request": "launch",
+            "mainClass": "String.StringCompression",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "StringDifferenceASCII",
+            "request": "launch",
+            "mainClass": "String.StringDifferenceASCII",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Stringbuilder",
+            "request": "launch",
+            "mainClass": "String.Stringbuilder",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "ToggleCase",
+            "request": "launch",
+            "mainClass": "String.ToggleCase",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "intro(3)",
+            "request": "launch",
+            "mainClass": "String.intro",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "palindroma",
+            "request": "launch",
+            "mainClass": "String.palindroma",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "ExitpointofMatrix",
+            "request": "launch",
+            "mainClass": "TwoDarray.ExitpointofMatrix",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Multiplication",
+            "request": "launch",
+            "mainClass": "TwoDarray.Multiplication",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Rotatearray",
+            "request": "launch",
+            "mainClass": "TwoDarray.Rotatearray",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "SpiralTraversal",
+            "request": "launch",
+            "mainClass": "TwoDarray.SpiralTraversal",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "WaveTraversal",
+            "request": "launch",
+            "mainClass": "TwoDarray.WaveTraversal",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "intro(4)",
+            "request": "launch",
+            "mainClass": "TwoDarray.intro",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "conditional",
+            "request": "launch",
+            "mainClass": "conditional",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "countDigit",
+            "request": "launch",
+            "mainClass": "countDigit",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "digitCount",
+            "request": "launch",
+            "mainClass": "digitCount",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "helloWorld",
+            "request": "launch",
+            "mainClass": "helloWorld",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "marks",
+            "request": "launch",
+            "mainClass": "marks",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "module2.pattern1",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "module2.pattern2",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "module2.pattern3",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "module2.pattern4",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "primeTillN",
+            "request": "launch",
+            "mainClass": "primeTillN",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "primeno",
+            "request": "launch",
+            "mainClass": "primeno",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "DyanamicQueue",
+            "request": "launch",
+            "mainClass": "queue.DyanamicQueue",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "MinimumStack$MinStack",
+            "request": "launch",
+            "mainClass": "queue.MinimumStack$MinStack",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "PrefixEvaluation",
+            "request": "launch",
+            "mainClass": "queue.PrefixEvaluation",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "QueuetoStackAdapterPushEfficient",
+            "request": "launch",
+            "mainClass": "queue.QueuetoStackAdapterPushEfficient",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "TwoStack",
+            "request": "launch",
+            "mainClass": "queue.TwoStack",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "intro(5)",
+            "request": "launch",
+            "mainClass": "queue.intro",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "normalQueue",
+            "request": "launch",
+            "mainClass": "queue.normalQueue",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "queuetostackAdapter",
+            "request": "launch",
+            "mainClass": "queue.queuetostackAdapter",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "sqeAddEffie",
+            "request": "launch",
+            "mainClass": "queue.sqeAddEffie",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "sqeRemoveEfiie",
+            "request": "launch",
+            "mainClass": "queue.sqeRemoveEfiie",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "reverseOfNumber",
+            "request": "launch",
+            "mainClass": "reverseOfNumber",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "sysout",
+            "request": "launch",
+            "mainClass": "sysout",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "takeInput",
+            "request": "launch",
+            "mainClass": "takeInput",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "usingElseIf",
+            "request": "launch",
+            "mainClass": "usingElseIf",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "varaible",
+            "request": "launch",
+            "mainClass": "varaible",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "java DSA level1_bd73974a"
+        }
+    ]
+}
