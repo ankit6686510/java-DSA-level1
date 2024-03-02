@@ -68,3 +68,43 @@ public class balancedbinarytree {
         System.out.println("Is the tree balanced? " + isBalanced);
     }
 }
+//more baklanced approach  O(n)
+/*
+ class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode() {}
+    TreeNode(int val) { this.val = val; }
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+}
+
+public class Solution {
+    public boolean isBalanced(TreeNode root) {
+        return balanced(root).isBal;
+    }
+
+    public BalancePair balanced(TreeNode root) {
+        if (root == null) {
+            return new BalancePair();
+        }
+        BalancePair lbp = balanced(root.left);
+        BalancePair rbp = balanced(root.right);
+        BalancePair sbp = new BalancePair();
+        sbp.height = Math.max(lbp.height, rbp.height) + 1;
+        boolean sb = Math.abs(lbp.height - rbp.height) <= 1;
+        sbp.isBal = lbp.isBal && rbp.isBal && sb;
+        return sbp;
+    }
+
+    class BalancePair {
+        boolean isBal = true;
+        int height = -1;
+    }
+}
+
+ */
