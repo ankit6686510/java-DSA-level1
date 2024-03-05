@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "balancedbinarytree",
+            "request": "launch",
+            "mainClass": "BinaryTree.balancedbinarytree",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "BinaryTree.Main",
+            "projectName": "java DSA level1_bd73974a"
+        },
+        {
+            "type": "java",
             "name": "removeLeaves",
             "request": "launch",
             "mainClass": "GenericTree.removeLeaves",
